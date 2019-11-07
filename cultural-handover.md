@@ -1,4 +1,4 @@
-# Culture handover
+# Cultural handover
 
 Courtesy of Georgia [@georgiamshaw](https://github.com/georgiamshaw)
 

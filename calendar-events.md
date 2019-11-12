@@ -29,7 +29,7 @@ I would highly recommend creating a meet-up account, if you don't already have o
 
 | Name     | DOB      | Proposed DOB | Plans|
 | -------- | -------- | -------- | -------- | 
-| Rida     | 7/11     | -        | Dinner |
+| Reda     | 7/11     | -        | Dinner |
 | Reggie   | -------- | -------- | -------- | 
 | Please add your names | ...and DOBs  | if you want| -------- | 
 

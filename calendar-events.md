@@ -12,7 +12,8 @@ I would highly recommend creating a meet-up account, if you don't already have o
 
 | Link | Description | Frequency/Day |
 | -------- | -------- | ---- |
-|[Codebar](https://www.codebar.io/london) | Amazing meetup for women & under-represented groups in tech | Every week: Releases workshop time on Friday afternoon (very hard to get central London workshop place after Mondays) 
+|[Codebar](https://www.codebar.io/london) | Amazing meetup for women & under-represented groups in tech | Must RSVP within hours, very hard to get place. Wednesdays every week: Releases workshop RSVP Friday afternoon ~12.30-1.00pm.
+Also every other Tuesday in West-Central London: Releases workshop RSVP on previous Tuesday afternoon ~12.30-1.00pm
 |[LondonCSS](https://www.meetup.com/London-CSS-Meetup/)| Meetup focussing on CSS | No events since Aug 2019 (...?)
 |[London Node User Group](https://www.meetup.com/london-nodejs/) | LNUG is a meetup on Node! | Meetups once a month 
 |[React Girls London](https://www.meetup.com/ReactJS-Girls-London/)| Aimed at women, but all genders welcome. One of my favourites! | 

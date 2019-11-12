@@ -33,6 +33,16 @@ I would highly recommend creating a meet-up account, if you don't already have o
 | Reggie   | -------- | -------- | -------- | 
 | Please add your names | ...and DOBs  | if you want| -------- | 
 
+## Dietary Requirements 
+Please note any special diets/ allergies/ aversions
+
+| Name     | Dietary requirements
+| -------- | -------- | 
+| Reda     | Halal meat/ pescatarian. Allergic to hazelnuts. Tee-total. |
+| Reggie   | -------- | 
+
+| Please add your names | ...and requirements etc 
+
 
 ## Social events
 

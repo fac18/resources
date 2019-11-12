@@ -29,6 +29,7 @@ I would highly recommend creating a meet-up account, if you don't already have o
 
 | Name     | DOB      | Proposed DOB | Plans|
 | -------- | -------- | -------- | -------- | 
+| Dan | 14/09 | -------- | Already executed! |
 | Reda     | 7/11     | -        | Dinner |
 | Reggie   | 24/11 | -------- | -------- | 
 | Gillian   | 17/12 | -------- | -------- | 
@@ -41,15 +42,17 @@ Please note any special diets/ allergies/ aversions
 | -------- | -------- | 
 | Reda     | Halal meat/ pescatarian. Allergic to hazelnuts. Tee-total. |
 | Reggie   | -------- | 
-| Gillian   | Vegetarian | 
+| Gillian   | Vegetarian |
+| Dan | Vegetarian. Allergic to all nuts (except pine) and sesame |
 
 | Please add your names | ...and requirements etc 
 
 
 ## Social events
 
-Salsa lesson at lunch
-Bring in your country's food lunch
-Yoga
-Night out at Rowans
-Board games night.
+* Salsa lesson at lunch
+* Bring in your country's food lunch
+* Yoga
+* Night out at Rowans
+* Board games night
+* Film nights.

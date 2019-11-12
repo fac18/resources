@@ -42,6 +42,7 @@ Please note any special diets/ allergies/ aversions
 | Reda     | Halal meat/ pescatarian. Allergic to hazelnuts. Tee-total. |
 | Reggie   | -------- | 
 | Gillian   | Vegetarian | 
+| Kin | N/A |
 
 | Please add your names | ...and requirements etc 
 

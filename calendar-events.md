@@ -30,7 +30,8 @@ I would highly recommend creating a meet-up account, if you don't already have o
 | Name     | DOB      | Proposed DOB | Plans|
 | -------- | -------- | -------- | -------- | 
 | Reda     | 7/11     | -        | Dinner |
-| Reggie   | -------- | -------- | -------- | 
+| Reggie   | 24/11 | -------- | -------- | 
+| Gillian   | 17/12 | -------- | -------- | 
 | Please add your names | ...and DOBs  | if you want| -------- | 
 
 ## Dietary Requirements 
@@ -40,6 +41,7 @@ Please note any special diets/ allergies/ aversions
 | -------- | -------- | 
 | Reda     | Halal meat/ pescatarian. Allergic to hazelnuts. Tee-total. |
 | Reggie   | -------- | 
+| Gillian   | Vegetarian | 
 
 | Please add your names | ...and requirements etc 
 

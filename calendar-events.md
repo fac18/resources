@@ -42,6 +42,7 @@ Please note any special diets/ allergies/ aversions
 | -------- | -------- | 
 | Reda     | Halal meat/ pescatarian. Allergic to hazelnuts. Tee-total. |
 | Reggie   | -------- | 
+| Roshan   | dairy-free | nightshade-free(white potato, pepper, aubergine and tomato) |
 | Gillian   | Vegetarian |
 | Dan | Vegetarian. Allergic to all nuts (except pine) and sesame |
 

@@ -33,6 +33,7 @@ I would highly recommend creating a meet-up account, if you don't already have o
 | Reda     | 7/11     | -        | Dinner |
 | Reggie   | 24/11 | -------- | -------- | 
 | Gillian   | 17/12 | -------- | -------- | 
+| Renata   | 19/06 | -------- | -------- |
 | Maria | 7/2 |  | 
 | Please add your names | ...and DOBs  | if you want| -------- | 
 

@@ -15,6 +15,10 @@ A collection of resources made by and for FAC18 📚
 | Webeveloper roadmap 2019 | https://github.com/kamranahmedse/developer-roadmap | Roadmap to becoming a web developer in 2019 (front-end, back-end and devOps versions included) | Pat
 | Codenewbie | https://www.codenewbie.org/podcast | a podcast for budding developers | Pat
 | Syntax.fm| https://syntax.fm/ | a podcast for web developers by Wes Bos and Scott Tolinski | Pat
+| Public APIs | https://github.com/public-apis/public-apis | a super extensive list of free APIs, organised into categories | Gillian
+| Muzli| https://muz.li/ | A site/extension of pretty projects for Design Inspiration | Gillian
+| Colorzilla| https://www.colorzilla.com/| An extension that lets you use an eyedropper to grab the colour of anything on a webpage or produce a palette of all colours | Gillian
+
 
 
 

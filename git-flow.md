@@ -1,3 +1,5 @@
+[Home](./README.md)
+
 # Git flow
 
 Mastering git flow was a key problem we had to manage during our [Week 1 project](https://github.com/fac18/week1-BDIM-dynamyk-site).

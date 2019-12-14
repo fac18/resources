@@ -1,24 +1,66 @@
 # resources
+
 A collection of resources made by and for FAC18 📚
 
+## Directory
 
+* [FAC18 info and social](./fac18.md)
+* [HTML](./html.md)
+* [CSS](./css.md)
+* [Accessibility](./a11y.md)
+* [Software Architecture](./architecture.md)
+* [Github](./github.md)
+* [Javascript](./javascript.md)
+* [APIs](./api.md)
+* [NodeJS](./node.md)
+* [Linting](./linting.md)
+* [Browser/Code Editor Extensions](./extensions.md)
+* [Interesting and fun](./interesting.md)
+* [Podcasts](./podcasts.md)
+* [Jobs and interviews](./jobs.md)
+* [Design Bursts](https://github.com/foundersandcoders/design-bursts)
+* [Presentation Slides](./slides.md)
 
+## Adding a resource
+
+### If creating a new page...
+1. Make a markdown file on github or in your code editor
+2. Add a relevant title and description then add a table with the following format:
+
+```
 | Name          | Link          | What is it?  | Tip from
 | ------------- | ------------- | ------------ | ------------ |
-| Coolors  | https://coolors.co/ | Colour scheme generator | Reda
-| HTML, CSS and JS interactive cheatsheets | https://htmlcheatsheet.com/ https://htmlcheatsheet.com/css/ https://htmlcheatsheet.com/js/ | Great reminder of tools, syntax and methods in one (three?) place(s) | Reda
-| FontPair | https://fontpair.co/ | Great database of fonts that pair well together | Reda
-| Flexbox Zombies  | https://flexboxzombies.com/p/flexbox-zombies  | another fun game to master flexbox   | Pat   
-| Marksheet.io   | https://marksheet.io/  | a nice recap of HTML and CSS   | Pat 
-| 30 seconds of knwoledge | https://30secondsofknowledge.com/ | Chrome/Firefox extension that helps you to learn about web technologies | Pat 
-| ECMAScript 6  | https://es6-features.org/ | Overview & Comparison of ECMAScript 6 features | Pat  
-| Webeveloper roadmap 2019 | https://github.com/kamranahmedse/developer-roadmap | Roadmap to becoming a web developer in 2019 (front-end, back-end and devOps versions included) | Pat
-| Codenewbie | https://www.codenewbie.org/podcast | a podcast for budding developers | Pat
-| Syntax.fm| https://syntax.fm/ | a podcast for web developers by Wes Bos and Scott Tolinski | Pat
-| Public APIs | https://github.com/public-apis/public-apis | a super extensive list of free APIs, organised into categories | Gillian
-| Muzli| https://muz.li/ | A site/extension of pretty projects for Design Inspiration | Gillian
-| Colorzilla| https://www.colorzilla.com/| An extension that lets you use an eyedropper to grab the colour of anything on a webpage or produce a palette of all colours | Gillian
-| Font Meme | https://fontmeme.com/ | A site that lets you browse and use iconic fonts | Alex   
+| Title of resource | link to resource | Brief description | Name of finder
+```
+
+3. Enter any resources to the page that you want
+4. Add a link to your new file to the directory list above.
+5. Commit/merge etc the changes
+
+
+### If adding a resource to an existing page...
+1. Navigate to the correct readme file in this repo
+2. Append to the table (in the above format)
+3. Commit/merge etc the changes
+
+## Major alterations
+
+Raise an issue or bring up in SGC?
+
+
+
+
+
+ 
+ 
+ 
+  
+
+
+
+
+
+  
 
 
 

@@ -1,4 +1,4 @@
-[Home](./README.md)
+[Home](../README.md)
 
 # FAC 18 shared calendar
 

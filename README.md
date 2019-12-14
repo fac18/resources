@@ -1,25 +1,25 @@
-# resources
+# Resources
 
 A collection of resources made by and for FAC18 📚
 
 ## Directory
 
-* [FAC18 info and social](./fac18.md)
-* [HTML](./html.md)
-* [CSS](./css.md)
-* [Accessibility](./a11y.md)
-* [Software Architecture](./architecture.md)
-* [Github](./github.md)
-* [Javascript](./javascript.md)
-* [APIs](./api.md)
-* [NodeJS](./node.md)
-* [Linting](./linting.md)
-* [Browser/Code Editor Extensions](./extensions.md)
-* [Interesting and fun](./interesting.md)
-* [Podcasts](./podcasts.md)
-* [Jobs and interviews](./jobs.md)
+* [FAC18 info and social](./directory/fac18.md)
+* [HTML](./directory/html.md)
+* [CSS](./directory/css.md)
+* [Accessibility](./directory/a11y.md)
+* [Software Architecture](./directory/architecture.md)
+* [Github](./directory/github.md)
+* [Javascript](./directory/javascript.md)
+* [APIs](./directory/api.md)
+* [NodeJS](./directory/node.md)
+* [Linting](./directory/linting.md)
+* [Browser/Code Editor Extensions](./directory/extensions.md)
+* [Interesting and fun](./directory/interesting.md)
+* [Podcasts](./directory/podcasts.md)
+* [Jobs and interviews](./directory/jobs.md)
 * [Design Bursts](https://github.com/foundersandcoders/design-bursts)
-* [Presentation Slides](./slides.md)
+* [Presentation Slides](./directory/slides.md)
 
 ## Adding a resource
 

@@ -35,7 +35,8 @@ A collection of resources made by and for FAC18 📚
 
 3. Enter any resources to the page that you want
 4. Add a link to your new file to the directory list above.
-5. Commit/merge etc the changes
+5. Add a home link back to this readme at the top of your page. 
+6. Commit/merge etc the changes
 
 
 ### If adding a resource to an existing page...

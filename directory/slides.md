@@ -10,6 +10,7 @@
 | 2 | https://foundersandcoders.slack.com/files/UKGQBBNRJ/FR2PX4WNR/bdd___cypress.pptx | BDD and Cypress | Ruth FAC6
 | 4 | https://docs.google.com/presentation/d/1fPAyJW8qPKMRV_HhC5wwDSc_VQZY9BuRIYQKSKFGAl0/edit | How to pick Node modules | Michelle FAC5
 | 5 | https://docs.google.com/presentation/d/1Rgi1-7ZKsD9UaWMGdi6Cxdw6iXPEdgjubTf7feZLur0/edit?usp=sharing | What is QA? | Sak FAC15
+| 6 | https://docs.google.com/presentation/d/1Ku1wZ_NJbYDfR7SAzIpDkm7ox_Uy1wavj0gSGxjGHF0/edit?usp=sharing | Into the SVG-verse | Bobby FAC16
 | 6 | https://docs.google.com/presentation/d/1cVfn7kYvJ4YFm646RUO8Deiff9Lnk12Fc_hFmdKpfAM/edit?usp=sharing | Software engineering | Jessica and Sohil (FAC10 and FAC6)
 | 7 | https://prezi.com/view/LKrqBCoQHsfxgqnOk9fE/ | Authentication | Michael Watts (FAC14)
 

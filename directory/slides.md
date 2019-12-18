@@ -14,6 +14,7 @@
 | 6 | https://docs.google.com/presentation/d/1cVfn7kYvJ4YFm646RUO8Deiff9Lnk12Fc_hFmdKpfAM/edit?usp=sharing | Software engineering | Jessica and Sohil (FAC10 and FAC6)
 | 7 | https://prezi.com/view/LKrqBCoQHsfxgqnOk9fE/ | Authentication | Michael Watts (FAC14)
 | 7 | https://docs.google.com/presentation/d/1sdMRGP-GUdI171ggKqExN9QV57gJwn_-KyTw5o2iBKc/edit?usp=sharing | Inclusive Design Practice | Florence Okoye
+| 8 | https://hackmd.io/kvVfzp5cQVWs7VDRAHjJVA?view | Getting Ready for your First Dev Job | Helen Zhou FAC13
 
 
 

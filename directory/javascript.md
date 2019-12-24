@@ -13,4 +13,7 @@
 | var, let and const: whats the diff? | https://dev.to/sarah_chima/var-let-and-const--whats-the-difference-69e | a rundown on the different uses of variable declarations | Georgia FAC17
 | Understand the event loop | https://bit.ly/2WK2PZ2 | A good video and test site to help understand the event loop | Bobby
 | First Class Functions | https://oliverjam.es/blog/first-class-functions/ | Rundown of first class functions on Oliver's blog (whole site is good for tips!) | Oliver FAC10
+| Medium: Learn Map | https://codeburst.io/learn-understand-javascripts-map-function-ffc059264783 | About using map array method | Reuben FAC17
+| Medium: Learn Reduce | https://codeburst.io/learn-understand-javascripts-reduce-function-b2b0406efbdc | About using reduce array method | Reuben Fac17
+| Medium: Learn Filter | https://codeburst.io/learn-understand-javascripts-filter-function-bde87bce206 | About using filter array method | Reuben FAC17
 

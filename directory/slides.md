@@ -6,6 +6,7 @@
 
 | Week          | Link          | What is it?  | Talk from
 | ------------- | ------------- | ------------ | ------------ |
+| 1 | https://drive.google.com/file/d/1OHpxW5sqDvehNiOrtGtW2F7hOY8kJLzP/view?usp=sharing | Public, Private, Protected | Siobhan Baker (8th Light)
 | 1 | https://fac-a11y.netlify.com/ | Oliver's talk on accessibility | Oliver FAC10
 | 2 | https://foundersandcoders.slack.com/files/UKGQBBNRJ/FR2PX4WNR/bdd___cypress.pptx | BDD and Cypress | Ruth FAC6
 | 4 | https://docs.google.com/presentation/d/1fPAyJW8qPKMRV_HhC5wwDSc_VQZY9BuRIYQKSKFGAl0/edit | How to pick Node modules | Michelle FAC5

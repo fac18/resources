@@ -21,7 +21,7 @@ A collection of resources made by and for FAC18 📚
 * [Design Bursts](https://github.com/foundersandcoders/design-bursts)
 * [Presentation Slides](./directory/slides.md)
 * [Express and handlebars](./express.md)
-* [React](./react.md)
+* [React](https://github.com/fac18/resources/blob/master/directory/react.md)
 
 ## Adding a resource
 

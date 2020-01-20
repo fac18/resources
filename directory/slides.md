@@ -17,6 +17,8 @@
 | 7 | https://docs.google.com/presentation/d/1sdMRGP-GUdI171ggKqExN9QV57gJwn_-KyTw5o2iBKc/edit?usp=sharing | Inclusive Design Practice | Florence Okoye
 | 8 | https://hackmd.io/kvVfzp5cQVWs7VDRAHjJVA?view | Getting Ready for your First Dev Job | Helen Zhou FAC13
 | 8 | http://tiny.cc/dzmviz | Some Things I Learned | Rory McElearney FAC
+| 10 | http://tiny.cc/62tyiz | Usability Testing | Calum Ryan
+| 10 | http://tiny.cc/g5tyiz | Agile in Practice | Steve Lillis
 | 11 | http://tiny.cc/mwmviz | Leading in the Age of Connected Intelligence | Anni Rowland-Campbell
 
 

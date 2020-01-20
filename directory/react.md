@@ -4,6 +4,8 @@
 
 Anything to do with React JS library 
 
+Take a look at the [React Week Repo[(https://github.com/foundersandcoders/react-week/blob/master/resources.md)
+
 | Name          | Link          | What is it?  | Tip from
 | ------------- | ------------- | ------------ | ------------ |
 | Making setInterval Declarative with React Hooks | https://overreacted.io/making-setinterval-declarative-with-react-hooks/ | Good overview of potential pitfalls with useEffect | Oli

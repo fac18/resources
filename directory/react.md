@@ -4,7 +4,7 @@
 
 Anything to do with React JS library 
 
-Take a look at the [React Week Repo[(https://github.com/foundersandcoders/react-week/blob/master/resources.md)
+Take a look at the [React Week Repo](https://github.com/foundersandcoders/react-week/blob/master/resources.md)
 
 | Name          | Link          | What is it?  | Tip from
 | ------------- | ------------- | ------------ | ------------ |

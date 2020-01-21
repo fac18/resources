@@ -20,6 +20,7 @@
 | 10 | http://tiny.cc/62tyiz | Usability Testing | Calum Ryan
 | 10 | http://tiny.cc/g5tyiz | Agile in Practice | Steve Lillis
 | 11 | http://tiny.cc/mwmviz | Leading in the Age of Connected Intelligence | Anni Rowland-Campbell
+| 12 | http://tiny.cc/batziz | Estimation and Issue Management | Dan Sofer 
 
 
 

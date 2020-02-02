@@ -18,7 +18,8 @@
 | 8 | https://hackmd.io/kvVfzp5cQVWs7VDRAHjJVA?view | Getting Ready for your First Dev Job | Helen Zhou FAC13
 | 8 | http://tiny.cc/dzmviz | Some Things I Learned | Rory McElearney FAC
 | 10 | http://tiny.cc/62tyiz | Usability Testing | Calum Ryan
-| 10 | http://tiny.cc/g5tyiz | Agile in Practice | Steve Lillis
+| 10 | http://tiny.cc/l2hhjz | Career Hacking Tips | Mike Hancock
+| 11 | http://tiny.cc/g5tyiz | Agile in Practice | Steve Lillis
 | 11 | http://tiny.cc/mwmviz | Leading in the Age of Connected Intelligence | Anni Rowland-Campbell
 | 12 | http://tiny.cc/batziz | Estimation and Issue Management | Dan Sofer 
 

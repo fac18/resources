@@ -16,6 +16,7 @@
 | 7 | https://prezi.com/view/LKrqBCoQHsfxgqnOk9fE/ | Authentication | Michael Watts (FAC14)
 | 7 | https://docs.google.com/presentation/d/1sdMRGP-GUdI171ggKqExN9QV57gJwn_-KyTw5o2iBKc/edit?usp=sharing | Inclusive Design Practice | Florence Okoye
 | 8 | https://hackmd.io/kvVfzp5cQVWs7VDRAHjJVA?view | Getting Ready for your First Dev Job | Helen Zhou FAC13
+| 8 | http://tiny.cc/ttykjz | Promises and async/await talk | Reuben George Thomas FAC17
 | 8 | http://tiny.cc/dzmviz | Some Things I Learned | Rory McElearney FAC
 | 10 | http://tiny.cc/62tyiz | Usability Testing | Calum Ryan
 | 10 | http://tiny.cc/l2hhjz | Career Hacking Tips | Mike Hancock

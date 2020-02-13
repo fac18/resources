@@ -23,6 +23,7 @@
 | 11 | http://tiny.cc/g5tyiz | Agile in Practice | Steve Lillis
 | 11 | http://tiny.cc/mwmviz | Leading in the Age of Connected Intelligence | Anni Rowland-Campbell
 | 12 | http://tiny.cc/batziz | Estimation and Issue Management | Dan Sofer 
+| 14 | http://tiny.cc/8a2yjz | You Got This! (interview advice talk) | Jihyun & Lucy (FAC15)
 | 15 | http://tiny.cc/721yjz | GraphQL | Jessie Beech (FAC14) 
 
 

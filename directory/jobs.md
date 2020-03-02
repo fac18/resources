@@ -10,4 +10,4 @@
 | Jan's interview tips | https://hackmd.io/3EfT1nkCT7GvbTPacI_C-w?view | Jan's musings and tips on the FAC jobs process | Jan FAC17
 | Hacker Rank | https://www.hackerrank.com/ | Similar to CodeWars but a bit more structured and lots of explicitly interview type q's | Gillian
 | Helen presentation | https://hackmd.io/kvVfzp5cQVWs7VDRAHjJVA?view | Job preparation tips presentation | Helen (FAC13)
-| Jessica/Sohil presentation | https://docs.google.com/presentation/d/1cVfn7kYvJ4YFm646RUO8Deiff9Lnk12Fc_hFmdKpfAM/edit#slide=id.g6bb53f8e9f_1_0 | Interview process | Jessica (FAC10) and Sohil (FAC6)
+| Jessica/Sohil presentation | https://docs.google.com/presentation/d/1cVfn7kYvJ4YFm646RUO8Deiff9Lnk12Fc_hFmdKpfAM | Interview process | Jessica (FAC10) and Sohil (FAC6)
